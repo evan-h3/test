@@ -115,3 +115,4 @@ Synthetic log (not an actual historical work diary)
 2026-07-20T13:06:00-05:00 | synthetic entry 3 of 4
 2026-07-20T14:14:00-05:00 | synthetic entry 4 of 4
 2026-07-21T10:10:00-05:00 | synthetic entry 1 of 4
+2026-07-21T10:20:00-05:00 | synthetic entry 2 of 4
